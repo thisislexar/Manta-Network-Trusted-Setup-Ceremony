@@ -53,7 +53,7 @@ cd manta-rs
 ```
 
 ```
-manta-trusted-setup contribute
+cargo run --release --all-features --bin groth16_phase2_client contribute
 ```
 
 ![Screenshot_12](https://user-images.githubusercontent.com/101462877/204378504-2391086e-a7b2-4954-a559-098f5f953f56.png)
