@@ -68,3 +68,6 @@ cargo run --release --all-features --bin groth16_phase2_client contribute
 
 
 # Son olarak bu [Gleam formu](https://gleam.io/hCQmJ/manta-network-trusted-setup-campaign)nu doldurmamız gerekiyormuş sanırım, doldurmayı unutmayın.
+ 
+ ![image](https://user-images.githubusercontent.com/101462877/204495220-4487eee9-1fb9-482c-b75d-af996a894afc.png)
+
