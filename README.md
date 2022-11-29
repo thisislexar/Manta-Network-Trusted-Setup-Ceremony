@@ -64,7 +64,13 @@ cargo run --release --all-features --bin groth16_phase2_client contribute
 
 ![image](https://user-images.githubusercontent.com/101462877/204378596-12120aa7-6277-421b-92e5-5c62122e0a40.png)
 
-# Bu kısımda bana 280 kişi verdi, onların sırası bitince ben contribution yapacağım. Screen'den CTRL + A + D yaparak çıkabilirsiniz. Bir süre sonra `screen -r manta` komutuyla screen içine yeniden girip sıra size geldiğinde tweet atabilirsiniz. Rehberi benim sıram geldiğinde güncelleyeceğim daha rahat anlaşılması açısından.
+# Bu kısımda bana 280 kişi verdi, onların sırası bitince ben contribution yapacağım. Screen'den CTRL + A + D yaparak çıkabilirsiniz. Bir süre sonra `screen -r manta` komutuyla screen içine yeniden girip sıra size geldiğinde contribution'ınızı tweet atın.
+
+
+# Sıranız geldikten sonra bir süre bekleyin, aşağıdaki görseldeki gibi bir görüntü oluşacak. Mavi kısmı kopyalayıp tweet atın. Ayrıca mavi kısımda gördüğünüz hash'i Gleam Formunda submitleyin.
+
+![image](https://user-images.githubusercontent.com/101462877/204501387-13aa0ed7-edb3-4206-80a7-ea15476378be.png)
+
 
 
 # Son olarak bu [Gleam formu](https://gleam.io/hCQmJ/manta-network-trusted-setup-campaign)nu doldurmamız gerekiyormuş sanırım, doldurmayı unutmayın.
