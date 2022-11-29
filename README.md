@@ -62,7 +62,7 @@ cargo run --release --all-features --bin groth16_phase2_client contribute
 
 # Yukarıdaki gibi bir şey göreceksiniz, daha öncesinde kurduğunuz Trusted Setup'tan aldığımız 12 mnemonic kelimeyi giriyoruz.
 
-![image](https://user-images.githubusercontent.com/101462877/204378596-12120aa7-6277-421b-92e5-5c62122e0a40.png)
+![image](https://user-images.githubusercontent.com/101462877/204592944-848a9668-4a72-47a7-a783-1b51747519e6.png)
 
 # Bu kısımda bana 280 kişi verdi, onların sırası bitince ben contribution yapacağım. Screen'den CTRL + A + D yaparak çıkabilirsiniz. Bir süre sonra `screen -r manta` komutuyla screen içine yeniden girip sıra size geldiğinde contribution'ınızı tweet atın.
 
