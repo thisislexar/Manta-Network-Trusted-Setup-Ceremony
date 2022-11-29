@@ -18,6 +18,8 @@
 - [Twitter](https://twitter.com/MantaNetworkTR)
 - [Discord](https://discord.gg/mantanetwork)
 
+# [Orijinal Doküman](https://mantanetwork.medium.com/the-manta-network-trusted-setup-is-now-open-for-contributions-f43e9c8f9f76)'a da göz atın.
+
 # Sırasıyla kodları giriyoruz.
 
 ```
@@ -63,3 +65,6 @@ cargo run --release --all-features --bin groth16_phase2_client contribute
 ![image](https://user-images.githubusercontent.com/101462877/204378596-12120aa7-6277-421b-92e5-5c62122e0a40.png)
 
 # Bu kısımda bana 280 kişi verdi, onların sırası bitince ben contribution yapacağım. Screen'den CTRL + A + D yaparak çıkabilirsiniz. Bir süre sonra `screen -r manta` komutuyla screen içine yeniden girip sıra size geldiğinde tweet atabilirsiniz. Rehberi benim sıram geldiğinde güncelleyeceğim daha rahat anlaşılması açısından.
+
+
+# Son olarak bu [Gleam formu](https://gleam.io/hCQmJ/manta-network-trusted-setup-campaign)nu doldurmamız gerekiyormuş sanırım, doldurmayı unutmayın.
